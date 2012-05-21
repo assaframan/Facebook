@@ -1,0 +1,48 @@
+{
+    "name": "Facebook",
+    "settings": {
+        "urlPrefix": "http://localhost/~lucacandela/fb/",
+        "spacesToIndent": 4,
+        "codeGenFormat": "Class",
+        "exportPath": "/Users/lucacandela/Sites/fb",
+        "senchaIoKey": "",
+        "senchaIoPath": "http://extjs.cachefly.net/designer/IO/",
+        "lineEnding": "LF",
+        "instantiateStore": true,
+        "genTimestamps": false,
+        "saveOnDeploy": false,
+        "appName": "MyApp"
+    },
+    "xdsVersion": "2.0.0",
+    "xdsBuild": "459",
+    "framework": "touch20",
+    "topInstanceFileMap": {
+        "94f82741-b44e-4d8f-9753-6a4ac4c4d659": {
+            "paths": [
+                "metadata/resource/Library"
+            ],
+            "className": "Library"
+        },
+        "fd77cb23-e56e-4802-9796-4013af93d771": {
+            "paths": [
+                "metadata/view/Login",
+                "app/view/override/Login.js",
+                "app/view/Login.js"
+            ],
+            "className": "Login"
+        },
+        "c556c71a-331d-4cae-92e3-dfdf5cfbbc68": {
+            "paths": [
+                "metadata/resource/css"
+            ],
+            "className": "css"
+        }
+    },
+    "expandedState": {
+        "data": true,
+        "model": true,
+        "component": true,
+        "controller": true,
+        "resource": true
+    }
+}
