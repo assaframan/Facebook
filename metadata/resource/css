@@ -1,5 +1,5 @@
 {
-    "id": "ExtBox1-ext-gen5033",
+    "id": "ExtBox1-ext-gen2407",
     "type": "cssresource",
     "reference": {
         "name": "items",
@@ -10,7 +10,7 @@
         "url": "resources/css/app.css"
     },
     "customConfigs": [],
-    "designerId": "c556c71a-331d-4cae-92e3-dfdf5cfbbc68",
-    "$viewOrder": 1,
+    "designerId": "5071254d-f136-4de4-b0bd-3e0c9e4e91f8",
+    "$viewOrder": 0,
     "expanded": true
 }
